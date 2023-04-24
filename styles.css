@@ -1,0 +1,21 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+table {
+    position: absolute;
+    top: 5%;
+    left: 20%;
+    border-collapse: collapse;
+    width: 300px;
+}
+
+td,
+th,
+tr {
+    color: red;
+    border: 1px solid red;
+
+}
